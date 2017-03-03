@@ -75,13 +75,13 @@
         android:layout_width="60dp"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:layout_alignBottom="@+id/button2"
+        android:layout_alignBottom="@+id/btnShowListHistory"
         android:layout_alignParentTop="true" />
 
     <Button
         android:layout_width="60dp"
         android:layout_height="wrap_content"
-        android:id="@+id/button2"
+        android:id="@+id/btnShowListHistory"
         android:background="@drawable/baddhistory"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
